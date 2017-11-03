@@ -19,6 +19,8 @@ import java.util.Random;
 //then u need this layout ... you cant use timer n all ..coz ..api not htting automatically ..it get hits on a particualr event..
 // ex cricket score app..you can use this ...
 
+//Like in istagram suppose api gets hit after 1 minute n u get new data..but they also gave u the swiperefresh layout that u can use to get images list data by whenever u want...by refersing it u can hit api every second
+
 
 
 public class MainActivity extends AppCompatActivity {
